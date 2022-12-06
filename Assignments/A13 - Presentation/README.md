@@ -2,6 +2,8 @@
 ### Yoseph Helal
 ### Presentation:
 
+Sunny Mountains presents us with an intriguing problem. You are given a set of coordinates that when all of them are plotted together form a sort of mountain range. Obviously, since this is a mountain range with varying peaks and altitudes, the sun is bound to hit some areas, and others not so much. Now, imagine this on a 2d plane where a y-axis from the right side is emanating continuous sun beams and our peaks are plotted. In the diagram on the PDF, we can clearly see how this plays out. With the areas, the sun hits, highlighted in red. Our goal is given our input data to plot the coordinates, figure out the coordinates, connect them, so that we can form our range, figure out which peaks are sunny (from right to left) and lastly use the distance formula to help us calculate the total distance of the sides of mountains that are sunny.
+
 ### Starter Code
 ```py
 # 0 500
