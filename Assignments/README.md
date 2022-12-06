@@ -3,7 +3,7 @@
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
 |   1   |    [A03A](https://github.com/tranvex/4883-PT-Helal/tree/main/Assignments/A03A)| Banner Page|
-|   2   |    [A03B/P10055](https://github.com/tranvex/4883-PT-Helal/tree/main/Assignments/P10055)| Hashmat the Brave Warrior|
+|   2   |    [Easy Breezy](https://github.com/tranvex/4883-PT-Helal/tree/main/Assignments/P10055)| Hashmat the Brave Warrior|
 |   3   |    [P01](https://github.com/tranvex/3013-Algorithms-Helal/tree/main/Assignments/P01)| Resizing the Stack|
 |   4   |    [P02](https://github.com/tranvex/3013-Algorithms-Helal/tree/main/Assignments/P02)| Processing in Linear Time|
 |   5   |    [P03](https://github.com/tranvex/3013-Algorithms-Helal/tree/main/Assignments/P03)| Processing in Trie Time|
