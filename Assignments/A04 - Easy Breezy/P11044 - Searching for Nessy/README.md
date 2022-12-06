@@ -22,4 +22,4 @@ Nessy cannot hide there (she is too big).
 
 ### Instructions
 
-- This project was compiled using C++ 17
+- This project was compiled using Python 3
