@@ -11,8 +11,8 @@ not. Hashmat’s soldier number is never greater than his opponent.
 
 |   #   | File                       | Description                                                |
 | :---: | -------------------------- | ---------------------------------------------------------- |
-|   1   | [main.cpp](./main.cpp)     | solution file.                                             |
-|   2   | [input](./input.txt)       | Test input file from problem statement                     |
+|   1   | [main.cpp](./main.cpp)     | Main CPP Solution                                             |
+|   2   | [input](./input.txt)       | Test input from problem statement                     |
 |   3   | [Problem PDF](./10055.pdf) | PDF of Problem                             |
 
 
