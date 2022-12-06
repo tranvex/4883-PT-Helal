@@ -10,5 +10,5 @@
 |   6   |    [P11547](https://github.com/tranvex/4883-PT-Helal/tree/main/Assignments/A04%20-%20Easy%20Breezy/P10783%20-%20Automatic%20Answer)| Automatic Answer|
 |   7   |    [P11636](https://github.com/tranvex/4883-PT-Helal/tree/main/Assignments/A04%20-%20Easy%20Breezy/P11636%20-%20Hello%20World!)| Hello World!|
 |   8   |    [P11854](https://github.com/tranvex/4883-PT-Helal/tree/main/Assignments/A04%20-%20Easy%20Breezy/P11854%20-%20Egypt)| Egypt|
-|   9   |    [P12289](https://github.com/tranvex/4883-PT-Helal/tree/main/Assignments/A04%20-%20Easy%20Breezy/P12289%20-%20Automatic%20Answer)| One-Two-Three|
+|   9   |    [P12289](https://github.com/tranvex/4883-PT-Helal/tree/main/Assignments/A04%20-%20Easy%20Breezy/P12289%20-%20One-Two-Three)| One-Two-Three|
 |   10   |    [P12577](https://github.com/tranvex/4883-PT-Helal/tree/main/Assignments/A04%20-%20Easy%20Breezy/P12577%20-%20Hajj%20Answer)| Hajj-e-Akbar|
